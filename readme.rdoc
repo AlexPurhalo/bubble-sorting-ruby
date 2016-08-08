@@ -1,0 +1,23 @@
+       Insertion Sorting Example
+------------------------------------------------------
+1. Array definition
+numbers = [3, 1, 4, 2 ]
+
+------------------------------------------------------
+2. Definition of function that takes array as parameter
+def insertion_sort(array)
+end
+
+------------------------------------------------------
+3. Call this function
+insertion_sort(numbers)
+
+----------------------------------------------------------------------------
+4. Iteration of taken array parameter with printing of each array's element and stocking its to variable
+def insertion_sort(array)
+  for j in 0...array.length
+    key = array(j) # puts key
+  end
+end
+
+5.
